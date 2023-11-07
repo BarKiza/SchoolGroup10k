@@ -26,13 +26,21 @@ nav a:hover{
     background-color: cover;
     height:400px;
 }
+<<<<<<< HEAD
 h1{
     font-family: "Fredericka the Great",cursive;
     color: #1f5b25;
+=======
+<<<<<<< HEAD
+h1{
+    font-family: 'Inknut Antiqua', serif;
+    color:#1f5b25;
+>>>>>>> 249cbe58ebc231dba1f6999d384a34325c97e394
     text-align: center;
 }
 
 .kave{
+<<<<<<< HEAD
     color: #1f5b25;
     background-color: #fff;
     border: 1px solid #1f5b25;
@@ -43,3 +51,16 @@ h1{
 .kave:hover{
     box-shadow: 0px 0px 5px #1f5b25;
 }
+=======
+    color:#1f5b25;
+    background-color:#fff;
+    border:1px solid #1f5b25;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+.kave:hover{
+    box-shadow: 0px 0px 5px #1f5b25;
+}
+=======
+>>>>>>> 6aa1b5a977a85ebfaf71a656b8f0756f61f39950
+>>>>>>> 249cbe58ebc231dba1f6999d384a34325c97e394
