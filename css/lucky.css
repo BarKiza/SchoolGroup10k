@@ -24,5 +24,5 @@ nav a:hover{
     background-image: url(Banner.jpg);
     background-position: center center;
     background-color: cover;
-    height:400%;
+    height:400px;
 }
