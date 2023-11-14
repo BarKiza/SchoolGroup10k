@@ -73,4 +73,13 @@ h1{
     position: absolute;
     top: 10px;
     right: 20px;
+    animation-name: napiajanlat;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes napiajanlat{
+    0% {width:40px}
+    50%{width:50px}
+    100% {width:40px}
 }
