@@ -1,5 +1,32 @@
 @import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@400;700&display=swap');
 
+
+#fooldal{
+    height: 100vh;
+    background-image: url(../img/coffe-index.jpg);
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+
+#fooldal .intro{
+    color: white;  
+    height: 100vh;     
+}
+
+#fooldal .intro .col-md-8{
+    background-color: rgba(0, 0, 0, 0.5);    
+}
+
+#pee{
+    color: limegreen;
+}
+
+#fooldal p{
+    font-size: 200%;
+    text-align: center;
+}
+
 body {
     background-color: #ffffff;
 }
